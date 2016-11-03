@@ -33,8 +33,8 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.3295775"
-     inkscape:cx="128.22978"
+     inkscape:zoom="1.8803065"
+     inkscape:cx="163.84471"
      inkscape:cy="299.70318"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -1709,7 +1709,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:start;text-anchor:start"
            y="125.87675"
            x="20.823151"
-           sodipodi:role="line">19: Chiyono Hasegawa, died December 2, 2011 at age 115y12d [GRG table row 1129</tspan></text>
+           sodipodi:role="line">19: Chiyono Hasegawa, died December 2, 2011 at age 115y12d [GRG table row 1129]</tspan></text>
 <g
          id="g8580"><text
            xml:space="preserve"
@@ -2068,4 +2068,10 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.48;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 19.612021,284.00569 377.262699,0"
        id="path4620-3"
-       inkscape:connector-curvature="0" /></g></svg>
+       inkscape:connector-curvature="0" /><circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6246"
+       cx="127.25405"
+       cy="-188.9283"
+       r="1.8082159"
+       transform="scale(1,-1)" /></g></svg>
