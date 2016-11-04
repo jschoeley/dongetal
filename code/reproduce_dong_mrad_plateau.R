@@ -9,7 +9,7 @@
 library(readr)
 library(dplyr)
 
-# Input -------------------------------------------------------------------
+# Data --------------------------------------------------------------------
 
 # verified supercentenarian deaths by country and year
 # Source: "International Database on Longevity" (supercentenarians.org)
